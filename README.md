@@ -1,7 +1,8 @@
 # ML-Models
 Study of machine learning models
 
-* [Random Forest](https://github.com/ML-WorkStation-SJSU/ML-Models/blob/master/Random%20Forest.ipynb)
+* [Random Forest](https://github.com/ML-WorkStation-SJSU/ML-Models/blob/master/Random%20Forest/JoyHome/Random%20Forest.ipynb)
+
 
 
 <div class="section" id="supervised-learning">
