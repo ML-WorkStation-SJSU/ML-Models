@@ -3,6 +3,9 @@ Study of machine learning models
 
 * [Random Forest](https://github.com/ML-WorkStation-SJSU/ML-Models/blob/master/Random%20Forest/JoyHome/Random%20Forest.ipynb)
 * [LDA]() **(if time is enough, and QDA)**
+* [SVM]() **(if time is enough, and QDA)**
+* [HMM]() **(if time is enough, and QDA)**
+* [PCA]() **(if time is enough, and QDA)**
 
 
 <div class="section" id="supervised-learning">
