@@ -7,6 +7,36 @@ Study of machine learning models
 * [HMM]()
 * [PCA]()
 
+1. Algorithm Descriptions
+Here is an overview of the linear, nonlinear and ensemble algorithm descriptions:
+
+Algorithm 1: Gradient Descent.
+Algorithm 2: Linear Regression.
+Algorithm 3: Logistic Regression.
+Algorithm 4: Linear Discriminant Analysis.
+Algorithm 5: Classification and Regression Trees.
+Algorithm 6: Naive Bayes.
+Algorithm 7: K-Nearest Neighbors.
+Algorithm 8: Learning Vector Quantization.
+Algorithm 9: Support Vector Machines.
+Algorithm 10: Bagged Decision Trees and Random Forest.
+Algorithm 11: Boosting and AdaBoost.
+2. Algorithm Tutorials
+Here is an overview of the step-by-step algorithm tutorials:
+
+Tutorial 1: Simple Linear Regression using Statistics.
+Tutorial 2: Simple Linear Regression with Gradient Descent.
+Tutorial 3: Logistic Regression with Gradient Descent.
+Tutorial 4: Linear Discriminant Analysis using Statistics.
+Tutorial 5: Classification and Regression Trees with Gini.
+Tutorial 6: Naive Bayes for Categorical Data.
+Tutorial 7: Gaussian Naive Bayes for Real-Valued Data.
+Tutorial 8: K-Nearest Neighbors for Classification.
+Tutorial 9: Learning Vector Quantization for Classification.
+Tutorial 10: Support Vector Machines with Gradient Descent.
+Tutorial 11: Bagged Classification and Regression Trees.
+Tutorial 12: AdaBoost for Classification.
+
 <div class="section" id="supervised-learning">
 <span id="id1"></span><h1>1. Supervised learning<a class="headerlink" href="#supervised-learning" title="Permalink to this headline">¶</a></h1>
 <div class="toctree-wrapper compound">
