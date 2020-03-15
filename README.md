@@ -7,6 +7,7 @@ Study of machine learning models
 * [HMM]()
 * [PCA]()
 * [Naive Bayes]()
+* [Guassian Process]()
 * [AdaBoost vs XgBoost]()
 
 1. Algorithm Descriptions
