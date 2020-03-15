@@ -6,6 +6,7 @@ Study of machine learning models
 * [SVM]()
 * [HMM]()
 * [PCA]()
+* [Naive Bayes]()
 
 1. Algorithm Descriptions
 
