@@ -16,7 +16,7 @@ Study of machine learning models
 
 * [Maximum Likehood Estimation]()
 * [EM Algorithm]()
-
+* [Co-Efficient Matrix]()
 1. Algorithm Descriptions
 
 ---
