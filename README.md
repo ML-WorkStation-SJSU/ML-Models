@@ -8,7 +8,8 @@ Study of machine learning models
 * [PCA]()
 * [Naive Bayes]()
 * [Guassian Process]()
-* [AdaBoost vs XgBoost]()
+* [AdaBoost]()
+* [XgBoost]()
 
 1. Algorithm Descriptions
 
