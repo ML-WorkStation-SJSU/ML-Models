@@ -10,6 +10,7 @@ Study of machine learning models
 * [Guassian Process]()
 * [AdaBoost]()
 * [XgBoost]()
+* [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
 
 1. Algorithm Descriptions
 
