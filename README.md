@@ -17,7 +17,10 @@ Study of machine learning models
 
 * [Maximum Likehood Estimation]()
 * [EM Algorithm]()
-* [Co-Efficient Matrix]()
+* [Coefficient Matrix]()
+* [Gradient Descent](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
+* [Normal Equations](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
+
 1. Algorithm Descriptions
 
 ---
