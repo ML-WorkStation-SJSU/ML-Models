@@ -11,6 +11,7 @@ Study of machine learning models
 * [AdaBoost]()
 * [XgBoost]()
 * [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
+* [Linear Regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
 
 # Related Concepts
 
