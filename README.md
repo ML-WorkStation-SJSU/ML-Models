@@ -12,6 +12,11 @@ Study of machine learning models
 * [XgBoost]()
 * [Logistic Regression](https://towardsdatascience.com/real-world-implementation-of-logistic-regression-5136cefb8125)
 
+# Related Concepts
+
+* [Maximum Likehood Estimation]()
+* [EM Algotithm]()
+
 1. Algorithm Descriptions
 
 ---
