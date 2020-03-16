@@ -15,7 +15,7 @@ Study of machine learning models
 # Related Concepts
 
 * [Maximum Likehood Estimation]()
-* [EM Algotithm]()
+* [EM Algorithm]()
 
 1. Algorithm Descriptions
 
