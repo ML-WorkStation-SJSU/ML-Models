@@ -23,6 +23,7 @@ Study of machine learning models
 * [Normal Equations](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [Residual Analysis](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [R Square](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
+* [SVD](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
 1. Algorithm Descriptions
 
 ---
