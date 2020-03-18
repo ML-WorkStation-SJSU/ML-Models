@@ -18,6 +18,7 @@ Study of machine learning models
 * [Maximum Likehood Estimation]()
 * [EM Algorithm]()
 * [Coefficient Matrix]()
+* [Matrix Factorization](https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
 * [Gradient Descent](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [Normal Equations](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [Residual Analysis](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
