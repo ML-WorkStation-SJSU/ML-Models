@@ -2,7 +2,7 @@
 Study of machine learning models
 
 * [Random Forest](https://github.com/ML-WorkStation-SJSU/ML-Models/blob/master/Random%20Forest/JoyHome/Random%20Forest.ipynb)
-* [LDA]() **(if time is enough, and QDA)**
+* [LDA]()
 * [SVM]()
 * [HMM]()
 * [PCA]()
@@ -18,10 +18,12 @@ Study of machine learning models
 * [Maximum Likehood Estimation]()
 * [EM Algorithm]()
 * [Coefficient Matrix]()
+* [Matrix Factorization](https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
 * [Gradient Descent](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [Normal Equations](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [Residual Analysis](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [R Square](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
+* [SVD](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
 1. Algorithm Descriptions
 
 ---
