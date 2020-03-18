@@ -24,8 +24,9 @@ Study of machine learning models
 * [Residual Analysis](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [R Square](https://github.com/SSaishruthi/Linear_Regression_Detailed_Implementation/blob/master/Linear_Regression.ipynb)
 * [SVD(Orthogonal Factorization )](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)
-1. Algorithm Descriptions
 * [Probabilistic Factorization](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+
+1. Algorithm Descriptions
 
 ---
 Here is an overview of the linear, nonlinear and ensemble algorithm descriptions:
