@@ -15,6 +15,7 @@ Study of machine learning models
 * [KNN](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 * [K-Means]()
 * [MLP(MultiLaher Perceptron)]()
+* [CRF(Conditional Random Feild)]()
 
 # Related Concepts
 
