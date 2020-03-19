@@ -14,6 +14,7 @@ Study of machine learning models
 * [Linear Regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
 * [KNN]()
 * [K-Means]()
+* [MLP(MultiLaher Perceptron)]()
 
 # Related Concepts
 
